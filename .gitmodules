@@ -1,0 +1,6 @@
+[submodule "Buoi1"]
+	path = Buoi1
+	url = https://github.com/Quanle2k6/VNGxZPS-BT_Buoi_1.git
+[submodule "Buoi2"]
+	path = Buoi2
+	url = https://github.com/Quanle2k6/VNGxZPS-BT_Buoi_2.git
